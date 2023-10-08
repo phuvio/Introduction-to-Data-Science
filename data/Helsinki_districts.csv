@@ -1,4 +1,4 @@
-KUNTA,SUUR,PERUS,OSA,Nimi,Helsingin tilastoaluetunnus,Tilastokeskuksen aluetunnus,Suurpiiri,Peruspiiri,Osa-alue
+Municipality,MAJOR,BASIC,SUB,Name,Helsinki statistical area code,Statistics Finland area code,Major district,District,Sub-district
 91,1,0,0,Eteläinen,091 1 Eteläinen suurpiiri,0911 1. Eteläinen suurpiiri,Eteläinen,0,0
 91,1,101,0,Vironniemi,091 101 Vironniemen peruspiiri,09111 101 Vironniemen peruspiiri,Eteläinen,Vironniemi,0
 91,1,101,10,Kruununhaka,091 10 Kruununhaka,09111010 010 Kruununhaka,Eteläinen,Vironniemi,Kruununhaka
