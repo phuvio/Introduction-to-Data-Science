@@ -1,191 +1,191 @@
-Municipality,MAJOR,BASIC,SUB,Name,Helsinki statistical area code,Statistics Finland area code,Major district,District,Sub-district
-91,1,0,0,Eteläinen,091 1 Eteläinen suurpiiri,0911 1. Eteläinen suurpiiri,Eteläinen,0,0
-91,1,101,0,Vironniemi,091 101 Vironniemen peruspiiri,09111 101 Vironniemen peruspiiri,Eteläinen,Vironniemi,0
-91,1,101,10,Kruununhaka,091 10 Kruununhaka,09111010 010 Kruununhaka,Eteläinen,Vironniemi,Kruununhaka
-91,1,101,20,Kluuvi,091 20 Kluuvi,09111020 020 Kluuvi,Eteläinen,Vironniemi,Kluuvi
-91,1,101,80,Katajanokka,091 80 Katajanokka,09111080 080 Katajanokka,Eteläinen,Vironniemi,Katajanokka
-91,1,102,0,Ullanlinna,091 102 Ullanlinnan peruspiiri,09112 102 Ullanlinnan peruspiiri,Eteläinen,Ullanlinna,0
-91,1,102,30,Kaartinkaupunki,091 30 Kaartinkaupunki,09112030 030 Kaartinkaupunki,Eteläinen,Ullanlinna,Kaartinkaupunki
-91,1,102,50,Punavuori,091 50 Punavuori,09112050 050 Punavuori,Eteläinen,Ullanlinna,Punavuori
-91,1,102,60,Eira,091 60 Eira,09112060 060 Eira,Eteläinen,Ullanlinna,Eira
-91,1,102,70,Ullanlinna,091 70 Ullanlinna,09112070 070 Ullanlinna,Eteläinen,Ullanlinna,Ullanlinna
-91,1,102,90,Kaivopuisto,091 90 Kaivopuisto,09112090 090 Kaivopuisto,Eteläinen,Ullanlinna,Kaivopuisto
-91,1,102,204,Hernesaari,091 204 Hernesaari,09112204 204 Hernesaari,Eteläinen,Ullanlinna,Hernesaari
-91,1,102,520,Suomenlinna,091 520 Suomenlinna,09112520 520 Suomenlinna,Eteläinen,Ullanlinna,Suomenlinna
-91,1,102,531,Länsisaaret,091 531 Länsisaaret,09112531 531 Länsisaaret,Eteläinen,Ullanlinna,Länsisaaret
-91,1,103,0,Kampinmalmi,091 103 Kampinmalmin peruspiiri,09113 103 Kampinmalmin peruspiiri,Eteläinen,Kampinmalmi,0
-91,1,103,40,Kamppi,091 40 Kamppi,09113040 040 Kamppi,Eteläinen,Kampinmalmi,Kamppi
-91,1,103,130,Etu-Töölö,091 130 Etu-Töölö,09113130 130 Etu-Töölö,Eteläinen,Kampinmalmi,Etu-Töölö
-91,1,103,201,Ruoholahti,091 201 Ruoholahti,09113201 201 Ruoholahti,Eteläinen,Kampinmalmi,Ruoholahti
-91,1,103,202,Lapinlahti,091 202 Lapinlahti,09113202 202 Lapinlahti,Eteläinen,Kampinmalmi,Lapinlahti
-91,1,103,203,Jätkäsaari,091 203 Jätkäsaari,09113203 203 Jätkäsaari,Eteläinen,Kampinmalmi,Jätkäsaari
-91,1,104,0,Taka-Töölö,091 104 Taka-Töölön peruspiiri,09114 104 Taka-Töölön peruspiiri,Eteläinen,Taka-Töölö,0
-91,1,104,140,Taka-Töölö,091 140 Taka-Töölö,09114140 140 Taka-Töölö,Eteläinen,Taka-Töölö,Taka-Töölö
-91,1,105,0,Lauttasaari,091 105 Lauttasaaren peruspiiri,09115 105 Lauttasaaren peruspiiri,Eteläinen,Lauttasaari,0
-91,1,105,311,Kotkavuori,091 311 Kotkavuori,09115311 311 Kotkavuori,Eteläinen,Lauttasaari,Kotkavuori
-91,1,105,312,Vattuniemi,091 312 Vattuniemi,09115312 312 Vattuniemi,Eteläinen,Lauttasaari,Vattuniemi
-91,1,105,313,Myllykallio,091 313 Myllykallio,09115313 313 Myllykallio,Eteläinen,Lauttasaari,Myllykallio
-91,1,105,314,Koivusaari,091 314 Koivusaari,09115314 314 Koivusaari,Eteläinen,Lauttasaari,Koivusaari
-91,2,0,0,Läntinen,091 2 Läntinen suurpiiri,0912 2. Läntinen suurpiiri,Läntinen,0,0
-91,2,201,0,Reijola,091 201 Reijolan peruspiiri,09121 201 Reijolan peruspiiri,Läntinen,Reijola,0
-91,2,201,150,Meilahti,091 150 Meilahti,09121150 150 Meilahti,Läntinen,Reijola,Meilahti
-91,2,201,161,Vanha Ruskeasuo,091 161 Vanha Ruskeasuo,09121161 161 Vanha Ruskeasuo,Läntinen,Reijola,Vanha Ruskeasuo
-91,2,201,162,Pikku Huopalahti,091 162 Pikku Huopalahti,09121162 162 Pikku Huopalahti,Läntinen,Reijola,Pikku Huopalahti
-91,2,201,180,Laakso,091 180 Laakso,09121180 180 Laakso,Läntinen,Reijola,Laakso
-91,2,202,0,Munkkiniemi,091 202 Munkkiniemen peruspiiri,09122 202 Munkkiniemen peruspiiri,Läntinen,Munkkiniemi,0
-91,2,202,301,Vanha Munkkiniemi,091 301 Vanha Munkkiniemi,09122301 301 Vanha Munkkiniemi,Läntinen,Munkkiniemi,Vanha Munkkiniemi
-91,2,202,302,Kuusisaari,091 302 Kuusisaari,09122302 302 Kuusisaari,Läntinen,Munkkiniemi,Kuusisaari
-91,2,202,303,Lehtisaari,091 303 Lehtisaari,09122303 303 Lehtisaari,Läntinen,Munkkiniemi,Lehtisaari
-91,2,202,304,Munkkivuori,091 304 Munkkivuori,09122304 304 Munkkivuori,Läntinen,Munkkiniemi,Munkkivuori
-91,2,202,305,Niemenmäki,091 305 Niemenmäki,09122305 305 Niemenmäki,Läntinen,Munkkiniemi,Niemenmäki
-91,2,202,306,Talinranta,091 306 Talinranta,09122306 306 Talinranta,Läntinen,Munkkiniemi,Talinranta
-91,2,203,0,Haaga,091 203 Haagan peruspiiri,09123 203 Haagan peruspiiri,Läntinen,Haaga,0
-91,2,203,291,Etelä-Haaga,091 291 Etelä-Haaga,09123291 291 Etelä-Haaga,Läntinen,Haaga,Etelä-Haaga
-91,2,203,292,Kivihaka,091 292 Kivihaka,09123292 292 Kivihaka,Läntinen,Haaga,Kivihaka
-91,2,203,293,Pohjois-Haaga,091 293 Pohjois-Haaga,09123293 293 Pohjois-Haaga,Läntinen,Haaga,Pohjois-Haaga
-91,2,203,294,Lassila,091 294 Lassila,09123294 294 Lassila,Läntinen,Haaga,Lassila
-91,2,204,0,Pitäjänmäki,091 204 Pitäjänmäen peruspiiri,09124 204 Pitäjänmäen peruspiiri,Läntinen,Pitäjänmäki,0
-91,2,204,320,Konala,091 320 Konala,09124320 320 Konala,Läntinen,Pitäjänmäki,Konala
-91,2,204,461,Pajamäki,091 461 Pajamäki,09124461 461 Pajamäki,Läntinen,Pitäjänmäki,Pajamäki
-91,2,204,462,Tali,091 462 Tali,09124462 462 Tali,Läntinen,Pitäjänmäki,Tali
-91,2,204,463,Reimarla,091 463 Reimarla,09124463 463 Reimarla,Läntinen,Pitäjänmäki,Reimarla
-91,2,204,464,Marttila,091 464 Marttila,09124464 464 Marttila,Läntinen,Pitäjänmäki,Marttila
-91,2,204,465,Pitäjänmäen yritysalue,091 465 Pitäjänmäen yritysalue,09124465 465 Pitäjänmäen yritysalue,Läntinen,Pitäjänmäki,Pitäjänmäen yritysalue
-91,2,205,0,Kaarela,091 205 Kaarelan peruspiiri,09125 205 Kaarelan peruspiiri,Läntinen,Kaarela,0
-91,2,205,331,Kannelmäki,091 331 Kannelmäki,09125331 331 Kannelmäki,Läntinen,Kaarela,Kannelmäki
-91,2,205,332,Maununneva,091 332 Maununneva,09125332 332 Maununneva,Läntinen,Kaarela,Maununneva
-91,2,205,333,Malminkartano,091 333 Malminkartano,09125333 333 Malminkartano,Läntinen,Kaarela,Malminkartano
-91,2,205,334,Hakuninmaa,091 334 Hakuninmaa,09125334 334 Hakuninmaa,Läntinen,Kaarela,Hakuninmaa
-91,2,205,335,Kuninkaantammi,091 335 Kuninkaantammi,09125335 335 Kuninkaantammi,Läntinen,Kaarela,Kuninkaantammi
-91,2,205,336,Honkasuo,091 336 Honkasuo,09125336 336 Honkasuo,Läntinen,Kaarela,Honkasuo
-91,3,0,0,Keskinen,091 3 Keskinen suurpiiri,0913 3. Keskinen suurpiiri,Keskinen,0,0
-91,3,301,0,Kallio,091 301 Kallion peruspiiri,09131 301 Kallion peruspiiri,Keskinen,Kallio,0
-91,3,301,101,Vilhonvuori,091 101 Vilhonvuori,09131101 101 Vilhonvuori,Keskinen,Kallio,Vilhonvuori
-91,3,301,102,Kalasatama,091 102 Kalasatama,09131102 102 Kalasatama,Keskinen,Kallio,Kalasatama
-91,3,301,103,Sompasaari,091 103 Sompasaari,09131103 103 Sompasaari,Keskinen,Kallio,Sompasaari
-91,3,301,104,Hanasaari,091 104 Hanasaari,09131104 104 Hanasaari,Keskinen,Kallio,Hanasaari
-91,3,301,111,Siltasaari,091 111 Siltasaari,09131111 111 Siltasaari,Keskinen,Kallio,Siltasaari
-91,3,301,112,Linjat,091 112 Linjat,09131112 112 Linjat,Keskinen,Kallio,Linjat
-91,3,301,113,Torkkelinmäki,091 113 Torkkelinmäki,09131113 113 Torkkelinmäki,Keskinen,Kallio,Torkkelinmäki
-91,3,302,0,Alppiharju,091 302 Alppiharjun peruspiiri,09132 302 Alppiharjun peruspiiri,Keskinen,Alppiharju,0
-91,3,302,121,Harju,091 121 Harju,09132121 121 Harju,Keskinen,Alppiharju,Harju
-91,3,302,122,Alppila,091 122 Alppila,09132122 122 Alppila,Keskinen,Alppiharju,Alppila
-91,3,303,0,Vallila,091 303 Vallilan peruspiiri,09133 303 Vallilan peruspiiri,Keskinen,Vallila,0
-91,3,303,211,Hermanninmäki,091 211 Hermanninmäki,09133211 211 Hermanninmäki,Keskinen,Vallila,Hermanninmäki
-91,3,303,212,Hermanninranta,091 212 Hermanninranta,09133212 212 Hermanninranta,Keskinen,Vallila,Hermanninranta
-91,3,303,213,Kyläsaari,091 213 Kyläsaari,09133213 213 Kyläsaari,Keskinen,Vallila,Kyläsaari
-91,3,303,220,Vallila,091 220 Vallila,09133220 220 Vallila,Keskinen,Vallila,Vallila
-91,3,304,0,Pasila,091 304 Pasilan peruspiiri,09134 304 Pasilan peruspiiri,Keskinen,Pasila,0
-91,3,304,171,Länsi-Pasila,091 171 Länsi-Pasila,09134171 171 Länsi-Pasila,Keskinen,Pasila,Länsi-Pasila
-91,3,304,172,Pohjois-Pasila,091 172 Pohjois-Pasila,09134172 172 Pohjois-Pasila,Keskinen,Pasila,Pohjois-Pasila
-91,3,304,173,Itä-Pasila,091 173 Itä-Pasila,09134173 173 Itä-Pasila,Keskinen,Pasila,Itä-Pasila
-91,3,304,174,Keski-Pasila,091 174 Keski-Pasila,09134174 174 Keski-Pasila,Keskinen,Pasila,Keski-Pasila
-91,3,305,0,Vanhakaupunki,091 305 Vanhankaupungin peruspiiri,09135 305 Vanhankaupungin peruspiiri,Keskinen,Vanhakaupunki,0
-91,3,305,231,Toukola,091 231 Toukola,09135231 231 Toukola,Keskinen,Vanhakaupunki,Toukola
-91,3,305,232,Arabianranta,091 232 Arabianranta,09135232 232 Arabianranta,Keskinen,Vanhakaupunki,Arabianranta
-91,3,305,240,Kumpula,091 240 Kumpula,09135240 240 Kumpula,Keskinen,Vanhakaupunki,Kumpula
-91,3,305,250,Käpylä,091 250 Käpylä,09135250 250 Käpylä,Keskinen,Vanhakaupunki,Käpylä
-91,3,305,260,Koskela,091 260 Koskela,09135260 260 Koskela,Keskinen,Vanhakaupunki,Koskela
-91,3,305,270,Vanhakaupunki,091 270 Vanhakaupunki,09135270 270 Vanhakaupunki,Keskinen,Vanhakaupunki,Vanhakaupunki
-91,4,0,0,Pohjoinen,091 4 Pohjoinen suurpiiri,0914 4. Pohjoinen suurpiiri,Pohjoinen,0,0
-91,4,401,0,Maunula,091 401 Maunulan peruspiiri,09141 401 Maunulan peruspiiri,Pohjoinen,Maunula,0
-91,4,401,281,Pirkkola,091 281 Pirkkola,09141281 281 Pirkkola,Pohjoinen,Maunula,Pirkkola
-91,4,401,282,Maunula,091 282 Maunula,09141282 282 Maunula,Pohjoinen,Maunula,Maunula
-91,4,401,283,Metsälä,091 283 Metsälä,09141283 283 Metsälä,Pohjoinen,Maunula,Metsälä
-91,4,401,286,Maunulanpuisto,091 286 Maunulanpuisto,09141286 286 Maunulanpuisto,Pohjoinen,Maunula,Maunulanpuisto
-91,4,402,0,Länsi-Pakila,091 402 Länsi-Pakilan peruspiiri,09142 402 Länsi-Pakilan peruspiiri,Pohjoinen,Länsi-Pakila,0
-91,4,402,341,Länsi-Pakila,091 341 Länsi-Pakila,09142341 341 Länsi-Pakila,Pohjoinen,Länsi-Pakila,Länsi-Pakila
-91,4,403,0,Tuomarinkylä,091 403 Tuomarinkylän peruspiiri,09143 403 Tuomarinkylän peruspiiri,Pohjoinen,Tuomarinkylä,0
-91,4,403,351,Paloheinä,091 351 Paloheinä,09143351 351 Paloheinä,Pohjoinen,Tuomarinkylä,Paloheinä
-91,4,403,352,Torpparinmäki,091 352 Torpparinmäki,09143352 352 Torpparinmäki,Pohjoinen,Tuomarinkylä,Torpparinmäki
-91,4,403,354,Haltiala,091 354 Haltiala,09143354 354 Haltiala,Pohjoinen,Tuomarinkylä,Haltiala
-91,4,404,0,Oulunkylä,091 404 Oulunkylän peruspiiri,09144 404 Oulunkylän peruspiiri,Pohjoinen,Oulunkylä,0
-91,4,404,284,Patola,091 284 Patola,09144284 284 Patola,Pohjoinen,Oulunkylä,Patola
-91,4,404,285,Veräjämäki,091 285 Veräjämäki,09144285 285 Veräjämäki,Pohjoinen,Oulunkylä,Veräjämäki
-91,4,404,287,Veräjälaakso,091 287 Veräjälaakso,09144287 287 Veräjälaakso,Pohjoinen,Oulunkylä,Veräjälaakso
-91,4,405,0,Itä-Pakila,091 405 Itä-Pakilan peruspiiri,09145 405 Itä-Pakilan peruspiiri,Pohjoinen,Itä-Pakila,0
-91,4,405,342,Itä-Pakila,091 342 Itä-Pakila,09145342 342 Itä-Pakila,Pohjoinen,Itä-Pakila,Itä-Pakila
-91,4,405,353,Tuomarinkartano,091 353 Tuomarinkartano,09145353 353 Tuomarinkartano,Pohjoinen,Itä-Pakila,Tuomarinkartano
-91,5,0,0,Koillinen,091 5 Koillinen suurpiiri,0915 5. Koillinen suurpiiri,Koillinen,0,0
-91,5,501,0,Latokartano,091 501 Latokartanon peruspiiri,09151 501 Latokartanon peruspiiri,Koillinen,Latokartano,0
-91,5,501,361,Viikinranta,091 361 Viikinranta,09151361 361 Viikinranta,Koillinen,Latokartano,Viikinranta
-91,5,501,362,Latokartano,091 362 Latokartano,09151362 362 Latokartano,Koillinen,Latokartano,Latokartano
-91,5,501,363,Viikin tiedepuisto,091 363 Viikin tiedepuisto,09151363 363 Viikin tiedepuisto,Koillinen,Latokartano,Viikin tiedepuisto
-91,5,501,364,Viikinmäki,091 364 Viikinmäki,09151364 364 Viikinmäki,Koillinen,Latokartano,Viikinmäki
-91,5,501,383,Pihlajamäki,091 383 Pihlajamäki,09151383 383 Pihlajamäki,Koillinen,Latokartano,Pihlajamäki
-91,5,501,386,Pihlajisto,091 386 Pihlajisto,09151386 386 Pihlajisto,Koillinen,Latokartano,Pihlajisto
-91,5,502,0,Pukinmäki,091 502 Pukinmäen peruspiiri,09152 502 Pukinmäen peruspiiri,Koillinen,Pukinmäki,0
-91,5,502,370,Pukinmäki,091 370 Pukinmäki,09152370 370 Pukinmäki,Koillinen,Pukinmäki,Pukinmäki
-91,5,503,0,Malmi,091 503 Malmin peruspiiri,09153 503 Malmin peruspiiri,Koillinen,Malmi,0
-91,5,503,381,Ylä-Malmi,091 381 Ylä-Malmi,09153381 381 Ylä-Malmi,Koillinen,Malmi,Ylä-Malmi
-91,5,503,382,Ala-Malmi,091 382 Ala-Malmi,09153382 382 Ala-Malmi,Koillinen,Malmi,Ala-Malmi
-91,5,503,384,Tattariharju,091 384 Tattariharju,09153384 384 Tattariharju,Koillinen,Malmi,Tattariharju
-91,5,503,385,Malmin lentokenttä,091 385 Malmin lentokenttä,09153385 385 Malmin lentokenttä,Koillinen,Malmi,Malmin lentokenttä
-91,5,503,391,Tapaninvainio,091 391 Tapaninvainio,09153391 391 Tapaninvainio,Koillinen,Malmi,Tapaninvainio
-91,5,503,392,Tapanila,091 392 Tapanila,09153392 392 Tapanila,Koillinen,Malmi,Tapanila
-91,5,504,0,Suutarila,091 504 Suutarilan peruspiiri,09154 504 Suutarilan peruspiiri,Koillinen,Suutarila,0
-91,5,504,401,Siltamäki,091 401 Siltamäki,09154401 401 Siltamäki,Koillinen,Suutarila,Siltamäki
-91,5,504,403,Töyrynummi,091 403 Töyrynummi,09154403 403 Töyrynummi,Koillinen,Suutarila,Töyrynummi
-91,5,505,0,Puistola,091 505 Puistolan peruspiiri,09155 505 Puistolan peruspiiri,Koillinen,Puistola,0
-91,5,505,402,Tapulikaupunki,091 402 Tapulikaupunki,09155402 402 Tapulikaupunki,Koillinen,Puistola,Tapulikaupunki
-91,5,505,411,Puistola,091 411 Puistola,09155411 411 Puistola,Koillinen,Puistola,Puistola
-91,5,505,412,Heikinlaakso,091 412 Heikinlaakso,09155412 412 Heikinlaakso,Koillinen,Puistola,Heikinlaakso
-91,5,505,413,Tattarisuo,091 413 Tattarisuo,09155413 413 Tattarisuo,Koillinen,Puistola,Tattarisuo
-91,5,505,415,Alppikylä,091 415 Alppikylä,09155415 415 Alppikylä,Koillinen,Puistola,Alppikylä
-91,5,506,0,Jakomäki,091 506 Jakomäen peruspiiri,09156 506 Jakomäen peruspiiri,Koillinen,Jakomäki,0
-91,5,506,414,Jakomäki,091 414 Jakomäki,09156414 414 Jakomäki,Koillinen,Jakomäki,Jakomäki
-91,6,0,0,Kaakkoinen,091 6 Kaakkoinen suurpiiri,0916 6. Kaakkoinen suurpiiri,Kaakkoinen,0,0
-91,6,601,0,Kulosaari,091 601 Kulosaaren peruspiiri,09161 601 Kulosaaren peruspiiri,Kaakkoinen,Kulosaari,0
-91,6,601,190,Mustikkamaa-Korkeasaari,091 190 Mustikkamaa-Korkeasaari,09161190 190 Mustikkamaa-Korkeasaari,Kaakkoinen,Kulosaari,Mustikkamaa-Korkeasaari
-91,6,601,420,Kulosaari,091 420 Kulosaari,09161420 420 Kulosaari,Kaakkoinen,Kulosaari,Kulosaari
-91,6,602,0,Herttoniemi,091 602 Herttoniemen peruspiiri,09162 602 Herttoniemen peruspiiri,Kaakkoinen,Herttoniemi,0
-91,6,602,431,Länsi-Herttoniemi,091 431 Länsi-Herttoniemi,09162431 431 Länsi-Herttoniemi,Kaakkoinen,Herttoniemi,Länsi-Herttoniemi
-91,6,602,432,Roihuvuori,091 432 Roihuvuori,09162432 432 Roihuvuori,Kaakkoinen,Herttoniemi,Roihuvuori
-91,6,602,433,Herttoniemen yritysalue,091 433 Herttoniemen yritysalue,09162433 433 Herttoniemen yritysalue,Kaakkoinen,Herttoniemi,Herttoniemen yritysalue
-91,6,602,434,Herttoniemenranta,091 434 Herttoniemenranta,09162434 434 Herttoniemenranta,Kaakkoinen,Herttoniemi,Herttoniemenranta
-91,6,602,440,Tammisalo,091 440 Tammisalo,09162440 440 Tammisalo,Kaakkoinen,Herttoniemi,Tammisalo
-91,6,603,0,Laajasalo,091 603 Laajasalon peruspiiri,09163 603 Laajasalon peruspiiri,Kaakkoinen,Laajasalo,0
-91,6,603,480,Vartiosaari,091 480 Vartiosaari,09163480 480 Vartiosaari,Kaakkoinen,Laajasalo,Vartiosaari
-91,6,603,491,Yliskylä,091 491 Yliskylä,09163491 491 Yliskylä,Kaakkoinen,Laajasalo,Yliskylä
-91,6,603,492,Jollas,091 492 Jollas,09163492 492 Jollas,Kaakkoinen,Laajasalo,Jollas
-91,6,603,493,Tullisaari,091 493 Tullisaari,09163493 493 Tullisaari,Kaakkoinen,Laajasalo,Tullisaari
-91,6,603,494,Kruunuvuorenranta,091 494 Kruunuvuorenranta,09163494 494 Kruunuvuorenranta,Kaakkoinen,Laajasalo,Kruunuvuorenranta
-91,6,603,495,Hevossalmi,091 495 Hevossalmi,09163495 495 Hevossalmi,Kaakkoinen,Laajasalo,Hevossalmi
-91,6,603,500,Villinki,091 500 Villinki,09163500 500 Villinki,Kaakkoinen,Laajasalo,Villinki
-91,6,603,510,Santahamina,091 510 Santahamina,09163510 510 Santahamina,Kaakkoinen,Laajasalo,Santahamina
-91,6,603,532,Itäsaaret,091 532 Itäsaaret,09163532 532 Itäsaaret,Kaakkoinen,Laajasalo,Itäsaaret
-91,6,603,533,Aluemeri,091 533 Aluemeri,09163533 533 Aluemeri,Kaakkoinen,Laajasalo,Aluemeri
-91,7,0,0,Itäinen,091 7 Itäinen suurpiiri,0917 7. Itäinen suurpiiri,Itäinen,0,0
-91,7,701,0,Vartiokylä,091 701 Vartiokylän peruspiiri,09171 701 Vartiokylän peruspiiri,Itäinen,Vartiokylä,0
-91,7,701,451,Vartioharju,091 451 Vartioharju,09171451 451 Vartioharju,Itäinen,Vartiokylä,Vartioharju
-91,7,701,452,Puotila,091 452 Puotila,09171452 452 Puotila,Itäinen,Vartiokylä,Puotila
-91,7,701,453,Puotinharju,091 453 Puotinharju,09171453 453 Puotinharju,Itäinen,Vartiokylä,Puotinharju
-91,7,701,455,Marjaniemi,091 455 Marjaniemi,09171455 455 Marjaniemi,Itäinen,Vartiokylä,Marjaniemi
-91,7,701,456,Roihupelto,091 456 Roihupelto,09171456 456 Roihupelto,Itäinen,Vartiokylä,Roihupelto
-91,7,701,457,Itäkeskus,091 457 Itäkeskus,09171457 457 Itäkeskus,Itäinen,Vartiokylä,Itäkeskus
-91,7,702,0,Myllypuro,091 702 Myllypuron peruspiiri,09172 702 Myllypuron peruspiiri,Itäinen,Myllypuro,0
-91,7,702,454,Myllypuro,091 454 Myllypuro,09172454 454 Myllypuro,Itäinen,Myllypuro,Myllypuro
-91,7,703,0,Mellunkylä,091 703 Mellunkylän peruspiiri,09173 703 Mellunkylän peruspiiri,Itäinen,Mellunkylä,0
-91,7,703,471,Kontula,091 471 Kontula,09173471 471 Kontula,Itäinen,Mellunkylä,Kontula
-91,7,703,472,Vesala,091 472 Vesala,09173472 472 Vesala,Itäinen,Mellunkylä,Vesala
-91,7,703,473,Mellunmäki,091 473 Mellunmäki,09173473 473 Mellunmäki,Itäinen,Mellunkylä,Mellunmäki
-91,7,703,474,Kivikko,091 474 Kivikko,09173474 474 Kivikko,Itäinen,Mellunkylä,Kivikko
-91,7,703,475,Kurkimäki,091 475 Kurkimäki,09173475 475 Kurkimäki,Itäinen,Mellunkylä,Kurkimäki
-91,7,704,0,Vuosaari,091 704 Vuosaaren peruspiiri,09174 704 Vuosaaren peruspiiri,Itäinen,Vuosaari,0
-91,7,704,541,Keski-Vuosaari,091 541 Keski-Vuosaari,09174541 541 Keski-Vuosaari,Itäinen,Vuosaari,Keski-Vuosaari
-91,7,704,542,Nordsjön kartano,091 542 Nordsjön kartano,09174542 542 Nordsjön kartano,Itäinen,Vuosaari,Nordsjön kartano
-91,7,704,543,Uutela,091 543 Uutela,09174543 543 Uutela,Itäinen,Vuosaari,Uutela
-91,7,704,544,Meri-Rastila,091 544 Meri-Rastila,09174544 544 Meri-Rastila,Itäinen,Vuosaari,Meri-Rastila
-91,7,704,545,Kallahti,091 545 Kallahti,09174545 545 Kallahti,Itäinen,Vuosaari,Kallahti
-91,7,704,546,Aurinkolahti,091 546 Aurinkolahti,09174546 546 Aurinkolahti,Itäinen,Vuosaari,Aurinkolahti
-91,7,704,547,Rastila,091 547 Rastila,09174547 547 Rastila,Itäinen,Vuosaari,Rastila
-91,7,704,548,Niinisaari,091 548 Niinisaari,09174548 548 Niinisaari,Itäinen,Vuosaari,Niinisaari
-91,7,704,549,Mustavuori,091 549 Mustavuori,09174549 549 Mustavuori,Itäinen,Vuosaari,Mustavuori
-91,8,0,0,Östersundom,091 8 Östersundomin suurpiiri,0918 8. Östersundomin suurpiiri,Östersundom,0,0
-91,8,801,0,Östersundom,091 801 Östersundomin peruspiiri,09181 801 Östersundomin peruspiiri,Östersundom,Östersundom,0
-91,8,801,550,Östersundom,091 550 Östersundom,09181550 550 Östersundom,Östersundom,Östersundom,Östersundom
-91,8,801,560,Salmenkallio,091 560 Salmenkallio,09181560 560 Salmenkallio,Östersundom,Östersundom,Salmenkallio
-91,8,801,570,Talosaari,091 570 Talosaari,09181570 570 Talosaari,Östersundom,Östersundom,Talosaari
-91,8,801,580,Karhusaari,091 580 Karhusaari,09181580 580 Karhusaari,Östersundom,Östersundom,Karhusaari
-91,8,801,591,Landbo,091 591 Landbo,09181591 591 Landbo,Östersundom,Östersundom,Landbo
-91,8,801,592,Puroniitty,091 592 Puroniitty,09181592 592 Puroniitty,Östersundom,Östersundom,Puroniitty
+Municipality,MAJOR,BASIC,SUB,Name,Helsinki statistical area code,Statistics Finland area code,Major district,District,Sub-district,Helsinki statistical area code 2
+91,1,0,0,Eteläinen,091 1 Eteläinen suurpiiri,0911 1. Eteläinen suurpiiri,Eteläinen,0,0,091 1 Etelainen suurpiiri
+91,1,101,0,Vironniemi,091 101 Vironniemen peruspiiri,09111 101 Vironniemen peruspiiri,Eteläinen,Vironniemi,0,091 101 Vironniemen peruspiiri
+91,1,101,10,Kruununhaka,091 10 Kruununhaka,09111010 010 Kruununhaka,Eteläinen,Vironniemi,Kruununhaka,091 10 Kruununhaka
+91,1,101,20,Kluuvi,091 20 Kluuvi,09111020 020 Kluuvi,Eteläinen,Vironniemi,Kluuvi,091 20 Kluuvi
+91,1,101,80,Katajanokka,091 80 Katajanokka,09111080 080 Katajanokka,Eteläinen,Vironniemi,Katajanokka,091 80 Katajanokka
+91,1,102,0,Ullanlinna,091 102 Ullanlinnan peruspiiri,09112 102 Ullanlinnan peruspiiri,Eteläinen,Ullanlinna,0,091 102 Ullanlinnan peruspiiri
+91,1,102,30,Kaartinkaupunki,091 30 Kaartinkaupunki,09112030 030 Kaartinkaupunki,Eteläinen,Ullanlinna,Kaartinkaupunki,091 30 Kaartinkaupunki
+91,1,102,50,Punavuori,091 50 Punavuori,09112050 050 Punavuori,Eteläinen,Ullanlinna,Punavuori,091 50 Punavuori
+91,1,102,60,Eira,091 60 Eira,09112060 060 Eira,Eteläinen,Ullanlinna,Eira,091 60 Eira
+91,1,102,70,Ullanlinna,091 70 Ullanlinna,09112070 070 Ullanlinna,Eteläinen,Ullanlinna,Ullanlinna,091 70 Ullanlinna
+91,1,102,90,Kaivopuisto,091 90 Kaivopuisto,09112090 090 Kaivopuisto,Eteläinen,Ullanlinna,Kaivopuisto,091 90 Kaivopuisto
+91,1,102,204,Hernesaari,091 204 Hernesaari,09112204 204 Hernesaari,Eteläinen,Ullanlinna,Hernesaari,091 204 Hernesaari
+91,1,102,520,Suomenlinna,091 520 Suomenlinna,09112520 520 Suomenlinna,Eteläinen,Ullanlinna,Suomenlinna,091 520 Suomenlinna
+91,1,102,531,Länsisaaret,091 531 Länsisaaret,09112531 531 Länsisaaret,Eteläinen,Ullanlinna,Länsisaaret,091 531 Lansisaaret
+91,1,103,0,Kampinmalmi,091 103 Kampinmalmin peruspiiri,09113 103 Kampinmalmin peruspiiri,Eteläinen,Kampinmalmi,0,091 103 Kampinmalmin peruspiiri
+91,1,103,40,Kamppi,091 40 Kamppi,09113040 040 Kamppi,Eteläinen,Kampinmalmi,Kamppi,091 40 Kamppi
+91,1,103,130,Etu-Töölö,091 130 Etu-Töölö,09113130 130 Etu-Töölö,Eteläinen,Kampinmalmi,Etu-Töölö,091 130 Etu-Toolo
+91,1,103,201,Ruoholahti,091 201 Ruoholahti,09113201 201 Ruoholahti,Eteläinen,Kampinmalmi,Ruoholahti,091 201 Ruoholahti
+91,1,103,202,Lapinlahti,091 202 Lapinlahti,09113202 202 Lapinlahti,Eteläinen,Kampinmalmi,Lapinlahti,091 202 Lapinlahti
+91,1,103,203,Jätkäsaari,091 203 Jätkäsaari,09113203 203 Jätkäsaari,Eteläinen,Kampinmalmi,Jätkäsaari,091 203 Jatkasaari
+91,1,104,0,Taka-Töölö,091 104 Taka-Töölön peruspiiri,09114 104 Taka-Töölön peruspiiri,Eteläinen,Taka-Töölö,0,091 104 Taka-Toolon peruspiiri
+91,1,104,140,Taka-Töölö,091 140 Taka-Töölö,09114140 140 Taka-Töölö,Eteläinen,Taka-Töölö,Taka-Töölö,091 140 Taka-Toolo
+91,1,105,0,Lauttasaari,091 105 Lauttasaaren peruspiiri,09115 105 Lauttasaaren peruspiiri,Eteläinen,Lauttasaari,0,091 105 Lauttasaaren peruspiiri
+91,1,105,311,Kotkavuori,091 311 Kotkavuori,09115311 311 Kotkavuori,Eteläinen,Lauttasaari,Kotkavuori,091 311 Kotkavuori
+91,1,105,312,Vattuniemi,091 312 Vattuniemi,09115312 312 Vattuniemi,Eteläinen,Lauttasaari,Vattuniemi,091 312 Vattuniemi
+91,1,105,313,Myllykallio,091 313 Myllykallio,09115313 313 Myllykallio,Eteläinen,Lauttasaari,Myllykallio,091 313 Myllykallio
+91,1,105,314,Koivusaari,091 314 Koivusaari,09115314 314 Koivusaari,Eteläinen,Lauttasaari,Koivusaari,091 314 Koivusaari
+91,2,0,0,Läntinen,091 2 Läntinen suurpiiri,0912 2. Läntinen suurpiiri,Läntinen,0,0,091 2 Lantinen suurpiiri
+91,2,201,0,Reijola,091 201 Reijolan peruspiiri,09121 201 Reijolan peruspiiri,Läntinen,Reijola,0,091 201 Reijolan peruspiiri
+91,2,201,150,Meilahti,091 150 Meilahti,09121150 150 Meilahti,Läntinen,Reijola,Meilahti,091 150 Meilahti
+91,2,201,161,Vanha Ruskeasuo,091 161 Vanha Ruskeasuo,09121161 161 Vanha Ruskeasuo,Läntinen,Reijola,Vanha Ruskeasuo,091 161 Vanha Ruskeasuo
+91,2,201,162,Pikku Huopalahti,091 162 Pikku Huopalahti,09121162 162 Pikku Huopalahti,Läntinen,Reijola,Pikku Huopalahti,091 162 Pikku Huopalahti
+91,2,201,180,Laakso,091 180 Laakso,09121180 180 Laakso,Läntinen,Reijola,Laakso,091 180 Laakso
+91,2,202,0,Munkkiniemi,091 202 Munkkiniemen peruspiiri,09122 202 Munkkiniemen peruspiiri,Läntinen,Munkkiniemi,0,091 202 Munkkiniemen peruspiiri
+91,2,202,301,Vanha Munkkiniemi,091 301 Vanha Munkkiniemi,09122301 301 Vanha Munkkiniemi,Läntinen,Munkkiniemi,Vanha Munkkiniemi,091 301 Vanha Munkkiniemi
+91,2,202,302,Kuusisaari,091 302 Kuusisaari,09122302 302 Kuusisaari,Läntinen,Munkkiniemi,Kuusisaari,091 302 Kuusisaari
+91,2,202,303,Lehtisaari,091 303 Lehtisaari,09122303 303 Lehtisaari,Läntinen,Munkkiniemi,Lehtisaari,091 303 Lehtisaari
+91,2,202,304,Munkkivuori,091 304 Munkkivuori,09122304 304 Munkkivuori,Läntinen,Munkkiniemi,Munkkivuori,091 304 Munkkivuori
+91,2,202,305,Niemenmäki,091 305 Niemenmäki,09122305 305 Niemenmäki,Läntinen,Munkkiniemi,Niemenmäki,091 305 Niemenmaki
+91,2,202,306,Talinranta,091 306 Talinranta,09122306 306 Talinranta,Läntinen,Munkkiniemi,Talinranta,091 306 Talinranta
+91,2,203,0,Haaga,091 203 Haagan peruspiiri,09123 203 Haagan peruspiiri,Läntinen,Haaga,0,091 203 Haagan peruspiiri
+91,2,203,291,Etelä-Haaga,091 291 Etelä-Haaga,09123291 291 Etelä-Haaga,Läntinen,Haaga,Etelä-Haaga,091 291 Etela-Haaga
+91,2,203,292,Kivihaka,091 292 Kivihaka,09123292 292 Kivihaka,Läntinen,Haaga,Kivihaka,091 292 Kivihaka
+91,2,203,293,Pohjois-Haaga,091 293 Pohjois-Haaga,09123293 293 Pohjois-Haaga,Läntinen,Haaga,Pohjois-Haaga,091 293 Pohjois-Haaga
+91,2,203,294,Lassila,091 294 Lassila,09123294 294 Lassila,Läntinen,Haaga,Lassila,091 294 Lassila
+91,2,204,0,Pitäjänmäki,091 204 Pitäjänmäen peruspiiri,09124 204 Pitäjänmäen peruspiiri,Läntinen,Pitäjänmäki,0,091 204 Pitajanmaen peruspiiri
+91,2,204,320,Konala,091 320 Konala,09124320 320 Konala,Läntinen,Pitäjänmäki,Konala,091 320 Konala
+91,2,204,461,Pajamäki,091 461 Pajamäki,09124461 461 Pajamäki,Läntinen,Pitäjänmäki,Pajamäki,091 461 Pajamaki
+91,2,204,462,Tali,091 462 Tali,09124462 462 Tali,Läntinen,Pitäjänmäki,Tali,091 462 Tali
+91,2,204,463,Reimarla,091 463 Reimarla,09124463 463 Reimarla,Läntinen,Pitäjänmäki,Reimarla,091 463 Reimarla
+91,2,204,464,Marttila,091 464 Marttila,09124464 464 Marttila,Läntinen,Pitäjänmäki,Marttila,091 464 Marttila
+91,2,204,465,Pitäjänmäen yritysalue,091 465 Pitäjänmäen yritysalue,09124465 465 Pitäjänmäen yritysalue,Läntinen,Pitäjänmäki,Pitäjänmäen yritysalue,091 465 Pitajanmaen yritysalue
+91,2,205,0,Kaarela,091 205 Kaarelan peruspiiri,09125 205 Kaarelan peruspiiri,Läntinen,Kaarela,0,091 205 Kaarelan peruspiiri
+91,2,205,331,Kannelmäki,091 331 Kannelmäki,09125331 331 Kannelmäki,Läntinen,Kaarela,Kannelmäki,091 331 Kannelmaki
+91,2,205,332,Maununneva,091 332 Maununneva,09125332 332 Maununneva,Läntinen,Kaarela,Maununneva,091 332 Maununneva
+91,2,205,333,Malminkartano,091 333 Malminkartano,09125333 333 Malminkartano,Läntinen,Kaarela,Malminkartano,091 333 Malminkartano
+91,2,205,334,Hakuninmaa,091 334 Hakuninmaa,09125334 334 Hakuninmaa,Läntinen,Kaarela,Hakuninmaa,091 334 Hakuninmaa
+91,2,205,335,Kuninkaantammi,091 335 Kuninkaantammi,09125335 335 Kuninkaantammi,Läntinen,Kaarela,Kuninkaantammi,091 335 Kuninkaantammi
+91,2,205,336,Honkasuo,091 336 Honkasuo,09125336 336 Honkasuo,Läntinen,Kaarela,Honkasuo,091 336 Honkasuo
+91,3,0,0,Keskinen,091 3 Keskinen suurpiiri,0913 3. Keskinen suurpiiri,Keskinen,0,0,091 3 Keskinen suurpiiri
+91,3,301,0,Kallio,091 301 Kallion peruspiiri,09131 301 Kallion peruspiiri,Keskinen,Kallio,0,091 301 Kallion peruspiiri
+91,3,301,101,Vilhonvuori,091 101 Vilhonvuori,09131101 101 Vilhonvuori,Keskinen,Kallio,Vilhonvuori,091 101 Vilhonvuori
+91,3,301,102,Kalasatama,091 102 Kalasatama,09131102 102 Kalasatama,Keskinen,Kallio,Kalasatama,091 102 Kalasatama
+91,3,301,103,Sompasaari,091 103 Sompasaari,09131103 103 Sompasaari,Keskinen,Kallio,Sompasaari,091 103 Sompasaari
+91,3,301,104,Hanasaari,091 104 Hanasaari,09131104 104 Hanasaari,Keskinen,Kallio,Hanasaari,091 104 Hanasaari
+91,3,301,111,Siltasaari,091 111 Siltasaari,09131111 111 Siltasaari,Keskinen,Kallio,Siltasaari,091 111 Siltasaari
+91,3,301,112,Linjat,091 112 Linjat,09131112 112 Linjat,Keskinen,Kallio,Linjat,091 112 Linjat
+91,3,301,113,Torkkelinmäki,091 113 Torkkelinmäki,09131113 113 Torkkelinmäki,Keskinen,Kallio,Torkkelinmäki,091 113 Torkkelinmaki
+91,3,302,0,Alppiharju,091 302 Alppiharjun peruspiiri,09132 302 Alppiharjun peruspiiri,Keskinen,Alppiharju,0,091 302 Alppiharjun peruspiiri
+91,3,302,121,Harju,091 121 Harju,09132121 121 Harju,Keskinen,Alppiharju,Harju,091 121 Harju
+91,3,302,122,Alppila,091 122 Alppila,09132122 122 Alppila,Keskinen,Alppiharju,Alppila,091 122 Alppila
+91,3,303,0,Vallila,091 303 Vallilan peruspiiri,09133 303 Vallilan peruspiiri,Keskinen,Vallila,0,091 303 Vallilan peruspiiri
+91,3,303,211,Hermanninmäki,091 211 Hermanninmäki,09133211 211 Hermanninmäki,Keskinen,Vallila,Hermanninmäki,091 211 Hermanninmaki
+91,3,303,212,Hermanninranta,091 212 Hermanninranta,09133212 212 Hermanninranta,Keskinen,Vallila,Hermanninranta,091 212 Hermanninranta
+91,3,303,213,Kyläsaari,091 213 Kyläsaari,09133213 213 Kyläsaari,Keskinen,Vallila,Kyläsaari,091 213 Kylasaari
+91,3,303,220,Vallila,091 220 Vallila,09133220 220 Vallila,Keskinen,Vallila,Vallila,091 220 Vallila
+91,3,304,0,Pasila,091 304 Pasilan peruspiiri,09134 304 Pasilan peruspiiri,Keskinen,Pasila,0,091 304 Pasilan peruspiiri
+91,3,304,171,Länsi-Pasila,091 171 Länsi-Pasila,09134171 171 Länsi-Pasila,Keskinen,Pasila,Länsi-Pasila,091 171 Lansi-Pasila
+91,3,304,172,Pohjois-Pasila,091 172 Pohjois-Pasila,09134172 172 Pohjois-Pasila,Keskinen,Pasila,Pohjois-Pasila,091 172 Pohjois-Pasila
+91,3,304,173,Itä-Pasila,091 173 Itä-Pasila,09134173 173 Itä-Pasila,Keskinen,Pasila,Itä-Pasila,091 173 Ita-Pasila
+91,3,304,174,Keski-Pasila,091 174 Keski-Pasila,09134174 174 Keski-Pasila,Keskinen,Pasila,Keski-Pasila,091 174 Keski-Pasila
+91,3,305,0,Vanhakaupunki,091 305 Vanhankaupungin peruspiiri,09135 305 Vanhankaupungin peruspiiri,Keskinen,Vanhakaupunki,0,091 305 Vanhankaupungin peruspiiri
+91,3,305,231,Toukola,091 231 Toukola,09135231 231 Toukola,Keskinen,Vanhakaupunki,Toukola,091 231 Toukola
+91,3,305,232,Arabianranta,091 232 Arabianranta,09135232 232 Arabianranta,Keskinen,Vanhakaupunki,Arabianranta,091 232 Arabianranta
+91,3,305,240,Kumpula,091 240 Kumpula,09135240 240 Kumpula,Keskinen,Vanhakaupunki,Kumpula,091 240 Kumpula
+91,3,305,250,Käpylä,091 250 Käpylä,09135250 250 Käpylä,Keskinen,Vanhakaupunki,Käpylä,091 250 Kapyla
+91,3,305,260,Koskela,091 260 Koskela,09135260 260 Koskela,Keskinen,Vanhakaupunki,Koskela,091 260 Koskela
+91,3,305,270,Vanhakaupunki,091 270 Vanhakaupunki,09135270 270 Vanhakaupunki,Keskinen,Vanhakaupunki,Vanhakaupunki,091 270 Vanhakaupunki
+91,4,0,0,Pohjoinen,091 4 Pohjoinen suurpiiri,0914 4. Pohjoinen suurpiiri,Pohjoinen,0,0,091 4 Pohjoinen suurpiiri
+91,4,401,0,Maunula,091 401 Maunulan peruspiiri,09141 401 Maunulan peruspiiri,Pohjoinen,Maunula,0,091 401 Maunulan peruspiiri
+91,4,401,281,Pirkkola,091 281 Pirkkola,09141281 281 Pirkkola,Pohjoinen,Maunula,Pirkkola,091 281 Pirkkola
+91,4,401,282,Maunula,091 282 Maunula,09141282 282 Maunula,Pohjoinen,Maunula,Maunula,091 282 Maunula
+91,4,401,283,Metsälä,091 283 Metsälä,09141283 283 Metsälä,Pohjoinen,Maunula,Metsälä,091 283 Metsala
+91,4,401,286,Maunulanpuisto,091 286 Maunulanpuisto,09141286 286 Maunulanpuisto,Pohjoinen,Maunula,Maunulanpuisto,091 286 Maunulanpuisto
+91,4,402,0,Länsi-Pakila,091 402 Länsi-Pakilan peruspiiri,09142 402 Länsi-Pakilan peruspiiri,Pohjoinen,Länsi-Pakila,0,091 402 Lansi-Pakilan peruspiiri
+91,4,402,341,Länsi-Pakila,091 341 Länsi-Pakila,09142341 341 Länsi-Pakila,Pohjoinen,Länsi-Pakila,Länsi-Pakila,091 341 Lansi-Pakila
+91,4,403,0,Tuomarinkylä,091 403 Tuomarinkylän peruspiiri,09143 403 Tuomarinkylän peruspiiri,Pohjoinen,Tuomarinkylä,0,091 403 Tuomarinkylan peruspiiri
+91,4,403,351,Paloheinä,091 351 Paloheinä,09143351 351 Paloheinä,Pohjoinen,Tuomarinkylä,Paloheinä,091 351 Paloheina
+91,4,403,352,Torpparinmäki,091 352 Torpparinmäki,09143352 352 Torpparinmäki,Pohjoinen,Tuomarinkylä,Torpparinmäki,091 352 Torpparinmaki
+91,4,403,354,Haltiala,091 354 Haltiala,09143354 354 Haltiala,Pohjoinen,Tuomarinkylä,Haltiala,091 354 Haltiala
+91,4,404,0,Oulunkylä,091 404 Oulunkylän peruspiiri,09144 404 Oulunkylän peruspiiri,Pohjoinen,Oulunkylä,0,091 404 Oulunkylan peruspiiri
+91,4,404,284,Patola,091 284 Patola,09144284 284 Patola,Pohjoinen,Oulunkylä,Patola,091 284 Patola
+91,4,404,285,Veräjämäki,091 285 Veräjämäki,09144285 285 Veräjämäki,Pohjoinen,Oulunkylä,Veräjämäki,091 285 Verajamaki
+91,4,404,287,Veräjälaakso,091 287 Veräjälaakso,09144287 287 Veräjälaakso,Pohjoinen,Oulunkylä,Veräjälaakso,091 287 Verajalaakso
+91,4,405,0,Itä-Pakila,091 405 Itä-Pakilan peruspiiri,09145 405 Itä-Pakilan peruspiiri,Pohjoinen,Itä-Pakila,0,091 405 Ita-Pakilan peruspiiri
+91,4,405,342,Itä-Pakila,091 342 Itä-Pakila,09145342 342 Itä-Pakila,Pohjoinen,Itä-Pakila,Itä-Pakila,091 342 Ita-Pakila
+91,4,405,353,Tuomarinkartano,091 353 Tuomarinkartano,09145353 353 Tuomarinkartano,Pohjoinen,Itä-Pakila,Tuomarinkartano,091 353 Tuomarinkartano
+91,5,0,0,Koillinen,091 5 Koillinen suurpiiri,0915 5. Koillinen suurpiiri,Koillinen,0,0,091 5 Koillinen suurpiiri
+91,5,501,0,Latokartano,091 501 Latokartanon peruspiiri,09151 501 Latokartanon peruspiiri,Koillinen,Latokartano,0,091 501 Latokartanon peruspiiri
+91,5,501,361,Viikinranta,091 361 Viikinranta,09151361 361 Viikinranta,Koillinen,Latokartano,Viikinranta,091 361 Viikinranta
+91,5,501,362,Latokartano,091 362 Latokartano,09151362 362 Latokartano,Koillinen,Latokartano,Latokartano,091 362 Latokartano
+91,5,501,363,Viikin tiedepuisto,091 363 Viikin tiedepuisto,09151363 363 Viikin tiedepuisto,Koillinen,Latokartano,Viikin tiedepuisto,091 363 Viikin tiedepuisto
+91,5,501,364,Viikinmäki,091 364 Viikinmäki,09151364 364 Viikinmäki,Koillinen,Latokartano,Viikinmäki,091 364 Viikinmaki
+91,5,501,383,Pihlajamäki,091 383 Pihlajamäki,09151383 383 Pihlajamäki,Koillinen,Latokartano,Pihlajamäki,091 383 Pihlajamaki
+91,5,501,386,Pihlajisto,091 386 Pihlajisto,09151386 386 Pihlajisto,Koillinen,Latokartano,Pihlajisto,091 386 Pihlajisto
+91,5,502,0,Pukinmäki,091 502 Pukinmäen peruspiiri,09152 502 Pukinmäen peruspiiri,Koillinen,Pukinmäki,0,091 502 Pukinmaen peruspiiri
+91,5,502,370,Pukinmäki,091 370 Pukinmäki,09152370 370 Pukinmäki,Koillinen,Pukinmäki,Pukinmäki,091 370 Pukinmaki
+91,5,503,0,Malmi,091 503 Malmin peruspiiri,09153 503 Malmin peruspiiri,Koillinen,Malmi,0,091 503 Malmin peruspiiri
+91,5,503,381,Ylä-Malmi,091 381 Ylä-Malmi,09153381 381 Ylä-Malmi,Koillinen,Malmi,Ylä-Malmi,091 381 Yla-Malmi
+91,5,503,382,Ala-Malmi,091 382 Ala-Malmi,09153382 382 Ala-Malmi,Koillinen,Malmi,Ala-Malmi,091 382 Ala-Malmi
+91,5,503,384,Tattariharju,091 384 Tattariharju,09153384 384 Tattariharju,Koillinen,Malmi,Tattariharju,091 384 Tattariharju
+91,5,503,385,Malmin lentokenttä,091 385 Malmin lentokenttä,09153385 385 Malmin lentokenttä,Koillinen,Malmi,Malmin lentokenttä,091 385 Malmin lentokentta
+91,5,503,391,Tapaninvainio,091 391 Tapaninvainio,09153391 391 Tapaninvainio,Koillinen,Malmi,Tapaninvainio,091 391 Tapaninvainio
+91,5,503,392,Tapanila,091 392 Tapanila,09153392 392 Tapanila,Koillinen,Malmi,Tapanila,091 392 Tapanila
+91,5,504,0,Suutarila,091 504 Suutarilan peruspiiri,09154 504 Suutarilan peruspiiri,Koillinen,Suutarila,0,091 504 Suutarilan peruspiiri
+91,5,504,401,Siltamäki,091 401 Siltamäki,09154401 401 Siltamäki,Koillinen,Suutarila,Siltamäki,091 401 Siltamaki
+91,5,504,403,Töyrynummi,091 403 Töyrynummi,09154403 403 Töyrynummi,Koillinen,Suutarila,Töyrynummi,091 403 Toyrynummi
+91,5,505,0,Puistola,091 505 Puistolan peruspiiri,09155 505 Puistolan peruspiiri,Koillinen,Puistola,0,091 505 Puistolan peruspiiri
+91,5,505,402,Tapulikaupunki,091 402 Tapulikaupunki,09155402 402 Tapulikaupunki,Koillinen,Puistola,Tapulikaupunki,091 402 Tapulikaupunki
+91,5,505,411,Puistola,091 411 Puistola,09155411 411 Puistola,Koillinen,Puistola,Puistola,091 411 Puistola
+91,5,505,412,Heikinlaakso,091 412 Heikinlaakso,09155412 412 Heikinlaakso,Koillinen,Puistola,Heikinlaakso,091 412 Heikinlaakso
+91,5,505,413,Tattarisuo,091 413 Tattarisuo,09155413 413 Tattarisuo,Koillinen,Puistola,Tattarisuo,091 413 Tattarisuo
+91,5,505,415,Alppikylä,091 415 Alppikylä,09155415 415 Alppikylä,Koillinen,Puistola,Alppikylä,091 415 Alppikyla
+91,5,506,0,Jakomäki,091 506 Jakomäen peruspiiri,09156 506 Jakomäen peruspiiri,Koillinen,Jakomäki,0,091 506 Jakomaen peruspiiri
+91,5,506,414,Jakomäki,091 414 Jakomäki,09156414 414 Jakomäki,Koillinen,Jakomäki,Jakomäki,091 414 Jakomaki
+91,6,0,0,Kaakkoinen,091 6 Kaakkoinen suurpiiri,0916 6. Kaakkoinen suurpiiri,Kaakkoinen,0,0,091 6 Kaakkoinen suurpiiri
+91,6,601,0,Kulosaari,091 601 Kulosaaren peruspiiri,09161 601 Kulosaaren peruspiiri,Kaakkoinen,Kulosaari,0,091 601 Kulosaaren peruspiiri
+91,6,601,190,Mustikkamaa-Korkeasaari,091 190 Mustikkamaa-Korkeasaari,09161190 190 Mustikkamaa-Korkeasaari,Kaakkoinen,Kulosaari,Mustikkamaa-Korkeasaari,091 190 Mustikkamaa-Korkeasaari
+91,6,601,420,Kulosaari,091 420 Kulosaari,09161420 420 Kulosaari,Kaakkoinen,Kulosaari,Kulosaari,091 420 Kulosaari
+91,6,602,0,Herttoniemi,091 602 Herttoniemen peruspiiri,09162 602 Herttoniemen peruspiiri,Kaakkoinen,Herttoniemi,0,091 602 Herttoniemen peruspiiri
+91,6,602,431,Länsi-Herttoniemi,091 431 Länsi-Herttoniemi,09162431 431 Länsi-Herttoniemi,Kaakkoinen,Herttoniemi,Länsi-Herttoniemi,091 431 Lansi-Herttoniemi
+91,6,602,432,Roihuvuori,091 432 Roihuvuori,09162432 432 Roihuvuori,Kaakkoinen,Herttoniemi,Roihuvuori,091 432 Roihuvuori
+91,6,602,433,Herttoniemen yritysalue,091 433 Herttoniemen yritysalue,09162433 433 Herttoniemen yritysalue,Kaakkoinen,Herttoniemi,Herttoniemen yritysalue,091 433 Herttoniemen yritysalue
+91,6,602,434,Herttoniemenranta,091 434 Herttoniemenranta,09162434 434 Herttoniemenranta,Kaakkoinen,Herttoniemi,Herttoniemenranta,091 434 Herttoniemenranta
+91,6,602,440,Tammisalo,091 440 Tammisalo,09162440 440 Tammisalo,Kaakkoinen,Herttoniemi,Tammisalo,091 440 Tammisalo
+91,6,603,0,Laajasalo,091 603 Laajasalon peruspiiri,09163 603 Laajasalon peruspiiri,Kaakkoinen,Laajasalo,0,091 603 Laajasalon peruspiiri
+91,6,603,480,Vartiosaari,091 480 Vartiosaari,09163480 480 Vartiosaari,Kaakkoinen,Laajasalo,Vartiosaari,091 480 Vartiosaari
+91,6,603,491,Yliskylä,091 491 Yliskylä,09163491 491 Yliskylä,Kaakkoinen,Laajasalo,Yliskylä,091 491 Yliskyla
+91,6,603,492,Jollas,091 492 Jollas,09163492 492 Jollas,Kaakkoinen,Laajasalo,Jollas,091 492 Jollas
+91,6,603,493,Tullisaari,091 493 Tullisaari,09163493 493 Tullisaari,Kaakkoinen,Laajasalo,Tullisaari,091 493 Tullisaari
+91,6,603,494,Kruunuvuorenranta,091 494 Kruunuvuorenranta,09163494 494 Kruunuvuorenranta,Kaakkoinen,Laajasalo,Kruunuvuorenranta,091 494 Kruunuvuorenranta
+91,6,603,495,Hevossalmi,091 495 Hevossalmi,09163495 495 Hevossalmi,Kaakkoinen,Laajasalo,Hevossalmi,091 495 Hevossalmi
+91,6,603,500,Villinki,091 500 Villinki,09163500 500 Villinki,Kaakkoinen,Laajasalo,Villinki,091 500 Villinki
+91,6,603,510,Santahamina,091 510 Santahamina,09163510 510 Santahamina,Kaakkoinen,Laajasalo,Santahamina,091 510 Santahamina
+91,6,603,532,Itäsaaret,091 532 Itäsaaret,09163532 532 Itäsaaret,Kaakkoinen,Laajasalo,Itäsaaret,091 532 Itasaaret
+91,6,603,533,Aluemeri,091 533 Aluemeri,09163533 533 Aluemeri,Kaakkoinen,Laajasalo,Aluemeri,091 533 Aluemeri
+91,7,0,0,Itäinen,091 7 Itäinen suurpiiri,0917 7. Itäinen suurpiiri,Itäinen,0,0,091 7 Itainen suurpiiri
+91,7,701,0,Vartiokylä,091 701 Vartiokylän peruspiiri,09171 701 Vartiokylän peruspiiri,Itäinen,Vartiokylä,0,091 701 Vartiokylan peruspiiri
+91,7,701,451,Vartioharju,091 451 Vartioharju,09171451 451 Vartioharju,Itäinen,Vartiokylä,Vartioharju,091 451 Vartioharju
+91,7,701,452,Puotila,091 452 Puotila,09171452 452 Puotila,Itäinen,Vartiokylä,Puotila,091 452 Puotila
+91,7,701,453,Puotinharju,091 453 Puotinharju,09171453 453 Puotinharju,Itäinen,Vartiokylä,Puotinharju,091 453 Puotinharju
+91,7,701,455,Marjaniemi,091 455 Marjaniemi,09171455 455 Marjaniemi,Itäinen,Vartiokylä,Marjaniemi,091 455 Marjaniemi
+91,7,701,456,Roihupelto,091 456 Roihupelto,09171456 456 Roihupelto,Itäinen,Vartiokylä,Roihupelto,091 456 Roihupelto
+91,7,701,457,Itäkeskus,091 457 Itäkeskus,09171457 457 Itäkeskus,Itäinen,Vartiokylä,Itäkeskus,091 457 Itakeskus
+91,7,702,0,Myllypuro,091 702 Myllypuron peruspiiri,09172 702 Myllypuron peruspiiri,Itäinen,Myllypuro,0,091 702 Myllypuron peruspiiri
+91,7,702,454,Myllypuro,091 454 Myllypuro,09172454 454 Myllypuro,Itäinen,Myllypuro,Myllypuro,091 454 Myllypuro
+91,7,703,0,Mellunkylä,091 703 Mellunkylän peruspiiri,09173 703 Mellunkylän peruspiiri,Itäinen,Mellunkylä,0,091 703 Mellunkylan peruspiiri
+91,7,703,471,Kontula,091 471 Kontula,09173471 471 Kontula,Itäinen,Mellunkylä,Kontula,091 471 Kontula
+91,7,703,472,Vesala,091 472 Vesala,09173472 472 Vesala,Itäinen,Mellunkylä,Vesala,091 472 Vesala
+91,7,703,473,Mellunmäki,091 473 Mellunmäki,09173473 473 Mellunmäki,Itäinen,Mellunkylä,Mellunmäki,091 473 Mellunmaki
+91,7,703,474,Kivikko,091 474 Kivikko,09173474 474 Kivikko,Itäinen,Mellunkylä,Kivikko,091 474 Kivikko
+91,7,703,475,Kurkimäki,091 475 Kurkimäki,09173475 475 Kurkimäki,Itäinen,Mellunkylä,Kurkimäki,091 475 Kurkimaki
+91,7,704,0,Vuosaari,091 704 Vuosaaren peruspiiri,09174 704 Vuosaaren peruspiiri,Itäinen,Vuosaari,0,091 704 Vuosaaren peruspiiri
+91,7,704,541,Keski-Vuosaari,091 541 Keski-Vuosaari,09174541 541 Keski-Vuosaari,Itäinen,Vuosaari,Keski-Vuosaari,091 541 Keski-Vuosaari
+91,7,704,542,Nordsjön kartano,091 542 Nordsjön kartano,09174542 542 Nordsjön kartano,Itäinen,Vuosaari,Nordsjön kartano,091 542 Nordsjon kartano
+91,7,704,543,Uutela,091 543 Uutela,09174543 543 Uutela,Itäinen,Vuosaari,Uutela,091 543 Uutela
+91,7,704,544,Meri-Rastila,091 544 Meri-Rastila,09174544 544 Meri-Rastila,Itäinen,Vuosaari,Meri-Rastila,091 544 Meri-Rastila
+91,7,704,545,Kallahti,091 545 Kallahti,09174545 545 Kallahti,Itäinen,Vuosaari,Kallahti,091 545 Kallahti
+91,7,704,546,Aurinkolahti,091 546 Aurinkolahti,09174546 546 Aurinkolahti,Itäinen,Vuosaari,Aurinkolahti,091 546 Aurinkolahti
+91,7,704,547,Rastila,091 547 Rastila,09174547 547 Rastila,Itäinen,Vuosaari,Rastila,091 547 Rastila
+91,7,704,548,Niinisaari,091 548 Niinisaari,09174548 548 Niinisaari,Itäinen,Vuosaari,Niinisaari,091 548 Niinisaari
+91,7,704,549,Mustavuori,091 549 Mustavuori,09174549 549 Mustavuori,Itäinen,Vuosaari,Mustavuori,091 549 Mustavuori
+91,8,0,0,Östersundom,091 8 Östersundomin suurpiiri,0918 8. Östersundomin suurpiiri,Östersundom,0,0,091 8 Ostersundomin suurpiiri
+91,8,801,0,Östersundom,091 801 Östersundomin peruspiiri,09181 801 Östersundomin peruspiiri,Östersundom,Östersundom,0,091 801 Ostersundomin peruspiiri
+91,8,801,550,Östersundom,091 550 Östersundom,09181550 550 Östersundom,Östersundom,Östersundom,Östersundom,091 550 Ostersundom
+91,8,801,560,Salmenkallio,091 560 Salmenkallio,09181560 560 Salmenkallio,Östersundom,Östersundom,Salmenkallio,091 560 Salmenkallio
+91,8,801,570,Talosaari,091 570 Talosaari,09181570 570 Talosaari,Östersundom,Östersundom,Talosaari,091 570 Talosaari
+91,8,801,580,Karhusaari,091 580 Karhusaari,09181580 580 Karhusaari,Östersundom,Östersundom,Karhusaari,091 580 Karhusaari
+91,8,801,591,Landbo,091 591 Landbo,09181591 591 Landbo,Östersundom,Östersundom,Landbo,091 591 Landbo
+91,8,801,592,Puroniitty,091 592 Puroniitty,09181592 592 Puroniitty,Östersundom,Östersundom,Puroniitty,091 592 Puroniitty
