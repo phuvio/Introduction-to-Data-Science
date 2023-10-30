@@ -42,6 +42,4 @@ Looking at couples without children, it looks that the share of the unmarried co
 ## Next step
 An important topic requires additional effort. This can be done by using a larger amount and more accurate population-related data. For that, raw data would be needed, from which clearer connections can be found. In addition, the model needs more detailed information on the distribution of green areas and the proportion of different buildings in different areas. 
 
-Together we can make a difference.
-
-
+**Together we can make a difference.**
